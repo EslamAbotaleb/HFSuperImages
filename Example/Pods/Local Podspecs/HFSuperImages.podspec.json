@@ -1,0 +1,22 @@
+{
+  "name": "HFSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of HFSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/developer-eslam/HFSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "developer-eslam": "eslamabotaleb07@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/developer-eslam/HFSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HFSuperImages/Classes/**/*"
+}

@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HFSuperImages (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - HFSuperImages (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  HFSuperImages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HFSuperImages: 581eda226f0bd63dce9f8a4c5b47823f21f7b068
+
+PODFILE CHECKSUM: 59cd83bfd95f0d5fd043396a9e9fa7fd49a2008d
+
+COCOAPODS: 1.8.4
